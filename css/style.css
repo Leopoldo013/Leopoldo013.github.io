@@ -1,0 +1,125 @@
+body{
+  font-family: 'Montserrat';
+
+
+}
+
+
+#titulo{
+  background-color: #200f21;
+
+}
+
+.container-fluid{
+padding: 3% 15%;
+
+}
+
+.navbar-brand{
+  font-family: 'Ubuntu';
+  font-weight: bold;
+  padding: 2%;
+  padding-bottom: 3%;
+
+
+}
+
+.nav-item{
+  font-family: 'Montserrat';
+  padding: 0 18px;
+}
+
+.navbar{
+  padding-bottom: 4.5rem;
+}
+
+#fonth{
+  margin-left: 5%;
+  font-family: 'Montserrat';
+  font-size: 3rem;
+  color: #ccc1ff;
+  padding-bottom: 5%;
+
+}
+
+.btn{
+  margin-left: 5%;
+}
+
+.image{
+  width: 70%;
+}
+
+#caracteristicas{
+  padding: 7% 15%;
+  background-color: #fff;
+  font-family: 'Montserrat';
+}
+
+.box{
+  text-align: center;
+  padding: 5%;
+}
+
+.icon{
+  color: #5a3d5c;
+  margin-bottom: 1rem;
+}
+
+.icon:hover{
+  color: #382039;
+}
+
+#testemunhos{
+
+  text-align: center;
+  background-color: #5a3d5c;
+
+}
+
+.testimonial-text{
+  color: #ccc1ff;
+  font-family: 'Montserrat';
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+em{
+  color: #ccc1ff;
+  font-family: 'Ubuntu';
+}
+
+.testimonial-image{
+  width: 20%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+.carousel-item{
+  padding: 7% 15%;
+}
+
+#font-h2{
+  font-size: 3rem;
+}
+
+#preços{
+  text-align: center;
+  font-family: 'Ubuntu';
+  padding: 7%;
+}
+
+.preço-coluna{
+  padding: 5%;
+}
+
+#roda-pe{
+  text-align: center;
+  font-size: 1rem;
+  padding: 7% 15%;
+  background-color: #5a3d5c;
+}
+
+.social-icon{
+  margin: 20px 10px;
+}
